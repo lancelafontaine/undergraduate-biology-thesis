@@ -10,4 +10,4 @@ The formatted PDF file of the thesis is in the repository and can be downloaded 
 
 # The License
 
-This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt this work, but if you choose to do so, you *must* give me appropriate credit, provide a link to the license, and indicate if any changes were made. [Here](http://creativecommons.org/licenses/by/4.0/) are the full details of the license.
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt this work, but if you choose to do so, you *must* give me appropriate credit, provide a link to the license, and indicate if any changes were made. [Here](http://creativecommons.org/licenses/by/4.0/legalcode) are the full details of the license.
