@@ -4,6 +4,10 @@ This repository contains my Undergraduate Thesis entitled **Computational Design
 
 It was written for the completion of the B.Sc. Honours in Cell and Molecular Biology program in May 2014 at Concordia University in Montreal, Canada.
 
+# The Text
+
+The unformatted text file with the contents of the thesis porject is in the repository and can be downloaded or viewed directly on GitHub. Note that although the figure references are still present, the figures themselves have been removed.
+
 # The PDF 
 
 The formatted PDF file of the thesis is in the repository and can be downloaded directly from GitHub. The PDF is also available to view online [here at OpenThesis.org](http://www.openthesis.org/document/view/601877_0.pdf).
